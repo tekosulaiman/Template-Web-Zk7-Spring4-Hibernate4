@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Template-Web-Zk7-Spring4-Hibernate4">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/WebContent/WEB-INF/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/co/id/resources"/>
+        <property name="context-root" value="Template-Web-Zk7-Spring4-Hibernate4"/>
+        <property name="java-output-path" value="/Template-Web-Zk7-Spring4-Hibernate4/build/classes"/>
+    </wb-module>
+</project-modules>
